@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/TPSO2/!svn/ver/320/Trunk/src/system
+END
+loader.asm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/TPSO2/!svn/ver/318/Trunk/src/system/loader.asm
+END
+libasm.asm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/TPSO2/!svn/ver/318/Trunk/src/system/libasm.asm
+END
+kstart.asm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/TPSO2/!svn/ver/318/Trunk/src/system/kstart.asm
+END
+diskata.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/TPSO2/!svn/ver/311/Trunk/src/system/diskata.c
+END
+link.ld
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/TPSO2/!svn/ver/318/Trunk/src/system/link.ld
+END
+sem.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/TPSO2/!svn/ver/311/Trunk/src/system/sem.c
+END
+terminal.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/TPSO2/!svn/ver/316/Trunk/src/system/terminal.c
+END
+kernel.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/TPSO2/!svn/ver/316/Trunk/src/system/kernel.c
+END
+AtaDiskAdapterImpl.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TPSO2/!svn/ver/311/Trunk/src/system/AtaDiskAdapterImpl.c
+END
+systemCalls.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/TPSO2/!svn/ver/320/Trunk/src/system/systemCalls.c
+END
+keyboard.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/TPSO2/!svn/ver/125/Trunk/src/system/keyboard.c
+END
+users.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/TPSO2/!svn/ver/311/Trunk/src/system/users.c
+END
+commands.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/TPSO2/!svn/ver/318/Trunk/src/system/commands.c
+END
